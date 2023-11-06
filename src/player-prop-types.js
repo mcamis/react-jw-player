@@ -42,6 +42,7 @@ const propTypes = {
     PropTypes.string,
     PropTypes.array,
   ]),
+  renderCaptionsNatively: PropTypes.bool,
   useMultiplePlayerScripts: PropTypes.bool,
 };
 
